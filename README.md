@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Full-Stack software engineer, lifelong learner and problem solver.
 <!--
 **swaltek/swaltek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
