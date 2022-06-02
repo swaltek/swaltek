@@ -1,6 +1,3 @@
-### Hi there 👋
-Full-Stack software engineer, lifelong learner and problem solver.
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swaltek)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
