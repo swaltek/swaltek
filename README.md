@@ -1,3 +1,4 @@
+Hey! My name is Marcin, but you can call me Marty. I learned my first programing language in high-school from the book "The C++ Programing Language" by Bjarne Stroustrup. I've always loved problem solving and constantly changing technologies related to computer programing and have been pursing my passion on and off since high school. It wasn't until after leaving the military and attending a coding-boot camp with other veterans that I realized I could pursue software engineering as a career path. 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swaltek&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **swaltek/swaltek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
